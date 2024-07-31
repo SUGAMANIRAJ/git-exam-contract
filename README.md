@@ -1,0 +1,2 @@
+# git-exam-contract
+Truffle
